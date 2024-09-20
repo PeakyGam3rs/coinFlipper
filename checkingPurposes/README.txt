@@ -1,0 +1,1 @@
+Checks that the random numbers generated are actually random and 50/50 odds of heads or tails.
